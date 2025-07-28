@@ -1,0 +1,2 @@
+Running run_AMBER_dyn.py with arguments: --model_type instructblip --load_in_8bit --cache_dir /scratch/mfazli/huggingface_cache --amber_path /projects/zzhu20/Mehrdad/AMBER --log_dir /projects/zzhu20/Mehrdad/CEI/results/AMBER/prelim_dynamic_ctx_embed --use_CEI --num_beams 1 --max_new_tokens 512 --context_strategy topk_avg --topk 3 --injection_layer 20 --alpha 0.1
+AMBER benchmark completed successfully.

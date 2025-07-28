@@ -1,0 +1,18 @@
+{
+    "model_type": "instructblip",
+    "load_in_8bit": true,
+    "cache_dir": "/scratch/mfazli/huggingface_cache",
+    "amber_path": "/projects/zzhu20/Mehrdad/AMBER",
+    "amber_log_dir": "/projects/zzhu20/Mehrdad/CEI/results/AMBER/prelim_dynamic_ctx_embed",
+    "chair_log_dir": "/projects/zzhu20/Mehrdad/CEI/results/CHAIR/prelim_dynamic_ctx_embed",
+    "do_sample": false,
+    "use_CEI": true,
+    "num_beams": 1,
+    "max_new_tokens": 512,
+    "context_strategy": "topk_avg",
+    "topk": 3,
+    "opera_results": "/projects/zzhu20/Mehrdad/CEI/results/CHAIR/prelim/job_3710884/1968_instructblip.jsonl",
+    "context_embedding_layer": -1,
+    "injection_layer": 20,
+    "alpha": 0.1
+}

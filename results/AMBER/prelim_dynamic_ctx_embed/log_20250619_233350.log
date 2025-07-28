@@ -1,0 +1,17 @@
+2025-06-19 23:33:50,366 - INFO - Using device: cuda
+2025-06-19 23:33:51,187 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-06-19 23:33:51,245 - WARNING - The model weights are not tied. Please use the `tie_weights` method before using the `infer_auto_device` function.
+2025-06-19 23:33:57,683 - INFO - Loaded instructblip model and processor
+2025-06-19 23:33:57,703 - INFO - Loaded dataset and annotations
+2025-06-19 23:34:04,535 - INFO - Saved responses to /projects/zzhu20/Mehrdad/CEI/results/AMBER/prelim_dynamic_ctx_embed/instructblip_5859_alpha0.1_layer_15_strategy_top1.jsonl
+2025-06-19 23:34:12,928 - INFO - Saved responses to /projects/zzhu20/Mehrdad/CEI/results/AMBER/prelim_dynamic_ctx_embed/instructblip_5859_alpha0.1_layer_15_strategy_top1.jsonl
+2025-06-19 23:34:22,491 - INFO - Saved responses to /projects/zzhu20/Mehrdad/CEI/results/AMBER/prelim_dynamic_ctx_embed/instructblip_5859_alpha0.1_layer_15_strategy_top1.jsonl
+2025-06-19 23:34:28,550 - INFO - Saved responses to /projects/zzhu20/Mehrdad/CEI/results/AMBER/prelim_dynamic_ctx_embed/instructblip_5859_alpha0.1_layer_15_strategy_top1.jsonl
+2025-06-19 23:34:35,616 - INFO - Saved responses to /projects/zzhu20/Mehrdad/CEI/results/AMBER/prelim_dynamic_ctx_embed/instructblip_5859_alpha0.1_layer_15_strategy_top1.jsonl
+2025-06-19 23:34:45,220 - INFO - Saved responses to /projects/zzhu20/Mehrdad/CEI/results/AMBER/prelim_dynamic_ctx_embed/instructblip_5859_alpha0.1_layer_15_strategy_top1.jsonl
+2025-06-19 23:34:50,044 - INFO - Saved responses to /projects/zzhu20/Mehrdad/CEI/results/AMBER/prelim_dynamic_ctx_embed/instructblip_5859_alpha0.1_layer_15_strategy_top1.jsonl
+2025-06-19 23:34:57,038 - INFO - Saved responses to /projects/zzhu20/Mehrdad/CEI/results/AMBER/prelim_dynamic_ctx_embed/instructblip_5859_alpha0.1_layer_15_strategy_top1.jsonl
+2025-06-19 23:35:03,510 - INFO - Saved responses to /projects/zzhu20/Mehrdad/CEI/results/AMBER/prelim_dynamic_ctx_embed/instructblip_5859_alpha0.1_layer_15_strategy_top1.jsonl
+2025-06-19 23:35:11,793 - INFO - Saved responses to /projects/zzhu20/Mehrdad/CEI/results/AMBER/prelim_dynamic_ctx_embed/instructblip_5859_alpha0.1_layer_15_strategy_top1.jsonl
+2025-06-19 23:35:20,414 - INFO - Saved responses to /projects/zzhu20/Mehrdad/CEI/results/AMBER/prelim_dynamic_ctx_embed/instructblip_5859_alpha0.1_layer_15_strategy_top1.jsonl
+2025-06-19 23:35:26,586 - INFO - Saved responses to /projects/zzhu20/Mehrdad/CEI/results/AMBER/prelim_dynamic_ctx_embed/instructblip_5859_alpha0.1_layer_15_strategy_top1.jsonl

@@ -1,0 +1,1 @@
+Running command: python ./run_CHAIR.py     --model_type instructblip     --cache_dir /scratch/mfazli/huggingface_cache     --log_dir /projects/zzhu20/Mehrdad/CEI/results/CHAIR/prelim/job_3710883     --num_beams 1     --max_new_tokens 512     --context_embedding_idx -1     --context_embedding_layer -1     --injection_layer 10     --alpha 0.1 --use_CEI --opera_results

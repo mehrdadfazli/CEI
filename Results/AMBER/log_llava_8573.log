@@ -1,0 +1,15 @@
+2025-05-30 11:37:11,399 - INFO - Using device: cuda
+2025-05-30 11:37:11,404 - INFO - Saved experiment configuration to /projects/zzhu20/Mehrdad/CEI/Results/AMBER/llava_8573_config.json
+2025-05-30 11:37:13,208 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-05-30 11:37:37,460 - INFO - Loaded llava model and processor
+2025-05-30 11:37:37,481 - INFO - Loaded dataset and annotations
+2025-05-30 11:37:45,284 - INFO - Saved responses to /projects/zzhu20/Mehrdad/CEI/Results/AMBER/llava_8573_responses.json
+2025-05-30 11:37:49,740 - INFO - Saved responses to /projects/zzhu20/Mehrdad/CEI/Results/AMBER/llava_8573_responses.json
+2025-05-30 11:37:54,080 - INFO - Saved responses to /projects/zzhu20/Mehrdad/CEI/Results/AMBER/llava_8573_responses.json
+2025-05-30 11:37:58,414 - INFO - Saved responses to /projects/zzhu20/Mehrdad/CEI/Results/AMBER/llava_8573_responses.json
+2025-05-30 11:38:02,652 - INFO - Saved responses to /projects/zzhu20/Mehrdad/CEI/Results/AMBER/llava_8573_responses.json
+2025-05-30 11:38:11,005 - INFO - Saved responses to /projects/zzhu20/Mehrdad/CEI/Results/AMBER/llava_8573_responses.json
+2025-05-30 11:38:16,192 - INFO - Saved responses to /projects/zzhu20/Mehrdad/CEI/Results/AMBER/llava_8573_responses.json
+2025-05-30 11:38:22,077 - INFO - Saved responses to /projects/zzhu20/Mehrdad/CEI/Results/AMBER/llava_8573_responses.json
+2025-05-30 11:38:30,533 - INFO - Saved responses to /projects/zzhu20/Mehrdad/CEI/Results/AMBER/llava_8573_responses.json
+2025-05-30 11:38:35,220 - INFO - Saved responses to /projects/zzhu20/Mehrdad/CEI/Results/AMBER/llava_8573_responses.json

@@ -1,0 +1,2 @@
+use_CEI value: True
+Running command: python ./run_AMBER.py     --model_type llava     --cache_dir /scratch/mfazli/huggingface_cache     --amber_path /projects/zzhu20/Mehrdad/AMBER     --log_dir /projects/zzhu20/Mehrdad/CEI/results/AMBER/prelim/job_3709915     --num_beams 1     --max_new_tokens 512     --context_embedding_idx -1     --context_embedding_layer -1     --injection_layer 10     --alpha 0.1 --use_CEI

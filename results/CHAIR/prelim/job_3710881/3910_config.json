@@ -1,0 +1,7 @@
+{
+    "context_embedding_idx": -1,
+    "context_embedding_layer": -1,
+    "injection_layer": 15,
+    "alpha": 0.1,
+    "max_new_tokens": 512
+}

@@ -1,0 +1,9 @@
+2025-06-03 18:06:09,661 - INFO - use_CEI is set to: False
+2025-06-03 18:06:09,757 - INFO - Using device: cuda
+2025-06-03 18:06:09,762 - INFO - Saved experiment configuration to /projects/zzhu20/Mehrdad/CEI/results/CHAIR/prelim/job_3710881/3910_config.json
+2025-06-03 18:06:09,762 - INFO - Output will be saved to /projects/zzhu20/Mehrdad/CEI/results/CHAIR/prelim/job_3710881/3910_instructblip.jsonl
+2025-06-03 18:06:11,240 - INFO - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-06-03 18:06:11,297 - WARNING - The model weights are not tied. Please use the `tie_weights` method before using the `infer_auto_device` function.
+2025-06-03 18:06:40,725 - INFO - Loaded instructblip model and processor
+2025-06-03 18:06:40,734 - INFO - Loaded 500 image IDs from OPERA results
+2025-06-03 19:05:29,359 - INFO - Evaluation complete. Results saved to /projects/zzhu20/Mehrdad/CEI/results/CHAIR/prelim/job_3710881/3910_instructblip.jsonl

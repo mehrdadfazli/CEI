@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "response_64": "The image depicts a group of four people walking together in a grassy field. They are enjoying a leisurely stroll, possibly exploring the area or taking a break from their activities. The group is spread out, with one person on the left side, another in the middle, and the",
+        "response_128": "The image depicts a group of four people walking together in a grassy field. They are enjoying a leisurely stroll, possibly exploring the area or taking a break from their activities. The group is spread out, with one person on the left side, another in the middle, and the remaining two people on the right side of the image. The scene is set against a backdrop of trees, adding to the natural beauty of the location.",
+        "response_256": "The image depicts a group of four people walking together in a grassy field. They are enjoying a leisurely stroll, possibly exploring the area or taking a break from their activities. The group is spread out, with one person on the left side, another in the middle, and the remaining two people on the right side of the image. The scene is set against a backdrop of trees, adding to the natural beauty of the location.",
+        "response_512": "The image depicts a group of four people walking together in a grassy field. They are enjoying a leisurely stroll, possibly exploring the area or taking a break from their activities. The group is spread out, with one person on the left side, another in the middle, and the remaining two people on the right side of the image. The scene is set against a backdrop of trees, adding to the natural beauty of the location.",
+        "response_length": 96
+    },
+    {
+        "id": 2,
+        "response_64": "The image features a man wearing a life jacket, sitting in a red canoe on a lake. He is enjoying the serene surroundings, which include a bridge in the background. The man appears to be the only person in the canoe, making it a peaceful and solitary experience.",
+        "response_128": "The image features a man wearing a life jacket, sitting in a red canoe on a lake. He is enjoying the serene surroundings, which include a bridge in the background. The man appears to be the only person in the canoe, making it a peaceful and solitary experience.",
+        "response_256": "The image features a man wearing a life jacket, sitting in a red canoe on a lake. He is enjoying the serene surroundings, which include a bridge in the background. The man appears to be the only person in the canoe, making it a peaceful and solitary experience.",
+        "response_512": "The image features a man wearing a life jacket, sitting in a red canoe on a lake. He is enjoying the serene surroundings, which include a bridge in the background. The man appears to be the only person in the canoe, making it a peaceful and solitary experience.",
+        "response_length": 65
+    },
+    {
+        "id": 3,
+        "response_64": "The image features a young child standing in a grassy field, wearing a striped shirt. The child appears to be crying, possibly due to discomfort or a minor injury. The child is surrounded by a lush green field, which provides a serene and natural setting for the scene.",
+        "response_128": "The image features a young child standing in a grassy field, wearing a striped shirt. The child appears to be crying, possibly due to discomfort or a minor injury. The child is surrounded by a lush green field, which provides a serene and natural setting for the scene.",
+        "response_256": "The image features a young child standing in a grassy field, wearing a striped shirt. The child appears to be crying, possibly due to discomfort or a minor injury. The child is surrounded by a lush green field, which provides a serene and natural setting for the scene.",
+        "response_512": "The image features a young child standing in a grassy field, wearing a striped shirt. The child appears to be crying, possibly due to discomfort or a minor injury. The child is surrounded by a lush green field, which provides a serene and natural setting for the scene.",
+        "response_length": 64
+    },
+    {
+        "id": 4,
+        "response_64": "The image features a woman wearing a white shirt and a headband, paddling a boat on a river. She is holding an oar and appears to be enjoying her time on the water. The scene is set against a backdrop of trees, creating a serene and natural atmosphere.",
+        "response_128": "The image features a woman wearing a white shirt and a headband, paddling a boat on a river. She is holding an oar and appears to be enjoying her time on the water. The scene is set against a backdrop of trees, creating a serene and natural atmosphere.",
+        "response_256": "The image features a woman wearing a white shirt and a headband, paddling a boat on a river. She is holding an oar and appears to be enjoying her time on the water. The scene is set against a backdrop of trees, creating a serene and natural atmosphere.",
+        "response_512": "The image features a woman wearing a white shirt and a headband, paddling a boat on a river. She is holding an oar and appears to be enjoying her time on the water. The scene is set against a backdrop of trees, creating a serene and natural atmosphere.",
+        "response_length": 63
+    },
+    {
+        "id": 5,
+        "response_64": "The image captures a young girl jumping into the water at the beach. She is wearing a blue and white swimsuit and appears to be enjoying her time in the ocean. The girl is the main focus of the scene, and her joyful expression is evident as she jumps.",
+        "response_128": "The image captures a young girl jumping into the water at the beach. She is wearing a blue and white swimsuit and appears to be enjoying her time in the ocean. The girl is the main focus of the scene, and her joyful expression is evident as she jumps.",
+        "response_256": "The image captures a young girl jumping into the water at the beach. She is wearing a blue and white swimsuit and appears to be enjoying her time in the ocean. The girl is the main focus of the scene, and her joyful expression is evident as she jumps.",
+        "response_512": "The image captures a young girl jumping into the water at the beach. She is wearing a blue and white swimsuit and appears to be enjoying her time in the ocean. The girl is the main focus of the scene, and her joyful expression is evident as she jumps.",
+        "response_length": 62
+    },
+    {
+        "id": 6,
+        "response_64": "The image features a man riding a bicycle down a winding road, surrounded by a beautiful landscape. The road is lined with trees, and there are several cows grazing in the area. The cyclist is wearing a helmet for safety while enjoying the scenic route.",
+        "response_128": "The image features a man riding a bicycle down a winding road, surrounded by a beautiful landscape. The road is lined with trees, and there are several cows grazing in the area. The cyclist is wearing a helmet for safety while enjoying the scenic route.\n\nIn addition to the main cyclist, there are two other people visible in the scene, one closer to the center and the other towards the right side of the image. A backpack can be seen on the ground near the center of the scene, possibly belonging to the cyclist or one of the other people.",
+        "response_256": "The image features a man riding a bicycle down a winding road, surrounded by a beautiful landscape. The road is lined with trees, and there are several cows grazing in the area. The cyclist is wearing a helmet for safety while enjoying the scenic route.\n\nIn addition to the main cyclist, there are two other people visible in the scene, one closer to the center and the other towards the right side of the image. A backpack can be seen on the ground near the center of the scene, possibly belonging to the cyclist or one of the other people.",
+        "response_512": "The image features a man riding a bicycle down a winding road, surrounded by a beautiful landscape. The road is lined with trees, and there are several cows grazing in the area. The cyclist is wearing a helmet for safety while enjoying the scenic route.\n\nIn addition to the main cyclist, there are two other people visible in the scene, one closer to the center and the other towards the right side of the image. A backpack can be seen on the ground near the center of the scene, possibly belonging to the cyclist or one of the other people.",
+        "response_length": 128
+    },
+    {
+        "id": 7,
+        "response_64": "The image features a young boy standing on a sandy beach, holding a green plastic kite. He appears to be enjoying his time at the beach, possibly preparing to fly the kite. The boy is wearing swim trunks, which adds to the beachy atmosphere. The kite is",
+        "response_128": "The image features a young boy standing on a sandy beach, holding a green plastic kite. He appears to be enjoying his time at the beach, possibly preparing to fly the kite. The boy is wearing swim trunks, which adds to the beachy atmosphere. The kite is positioned in front of him, ready for takeoff.",
+        "response_256": "The image features a young boy standing on a sandy beach, holding a green plastic kite. He appears to be enjoying his time at the beach, possibly preparing to fly the kite. The boy is wearing swim trunks, which adds to the beachy atmosphere. The kite is positioned in front of him, ready for takeoff.",
+        "response_512": "The image features a young boy standing on a sandy beach, holding a green plastic kite. He appears to be enjoying his time at the beach, possibly preparing to fly the kite. The boy is wearing swim trunks, which adds to the beachy atmosphere. The kite is positioned in front of him, ready for takeoff.",
+        "response_length": 77
+    },
+    {
+        "id": 8,
+        "response_64": "The image features a young child standing in a grassy field, holding a pacifier in their mouth. The child is wearing a red hat and is positioned towards the left side of the scene.\n\nIn the background, there is a white bird, possibly a goose, walking across the grassy area",
+        "response_128": "The image features a young child standing in a grassy field, holding a pacifier in their mouth. The child is wearing a red hat and is positioned towards the left side of the scene.\n\nIn the background, there is a white bird, possibly a goose, walking across the grassy area. The scene appears to be a peaceful outdoor setting, with the child enjoying their time in the field.",
+        "response_256": "The image features a young child standing in a grassy field, holding a pacifier in their mouth. The child is wearing a red hat and is positioned towards the left side of the scene.\n\nIn the background, there is a white bird, possibly a goose, walking across the grassy area. The scene appears to be a peaceful outdoor setting, with the child enjoying their time in the field.",
+        "response_512": "The image features a young child standing in a grassy field, holding a pacifier in their mouth. The child is wearing a red hat and is positioned towards the left side of the scene.\n\nIn the background, there is a white bird, possibly a goose, walking across the grassy area. The scene appears to be a peaceful outdoor setting, with the child enjoying their time in the field.",
+        "response_length": 89
+    },
+    {
+        "id": 9,
+        "response_64": "The image captures a soccer match in progress, with two players in the center of the action. One player is wearing a red jersey, while the other is wearing a white jersey. They are both running towards the soccer ball, which is located near the bottom left corner of the",
+        "response_128": "The image captures a soccer match in progress, with two players in the center of the action. One player is wearing a red jersey, while the other is wearing a white jersey. They are both running towards the soccer ball, which is located near the bottom left corner of the image.\n\nIn addition to the two main players, there are several other people in the scene, likely teammates or opponents. The players are spread out across the field, with some closer to the ball and others further away. The scene is filled with energy and excitement as the players compete against each",
+        "response_256": "The image captures a soccer match in progress, with two players in the center of the action. One player is wearing a red jersey, while the other is wearing a white jersey. They are both running towards the soccer ball, which is located near the bottom left corner of the image.\n\nIn addition to the two main players, there are several other people in the scene, likely teammates or opponents. The players are spread out across the field, with some closer to the ball and others further away. The scene is filled with energy and excitement as the players compete against each other.",
+        "response_512": "The image captures a soccer match in progress, with two players in the center of the action. One player is wearing a red jersey, while the other is wearing a white jersey. They are both running towards the soccer ball, which is located near the bottom left corner of the image.\n\nIn addition to the two main players, there are several other people in the scene, likely teammates or opponents. The players are spread out across the field, with some closer to the ball and others further away. The scene is filled with energy and excitement as the players compete against each other.",
+        "response_length": 131
+    },
+    {
+        "id": 10,
+        "response_64": "The image features a man wearing a top hat and a red and yellow plaid shirt, standing in front of a group of three orange and black balls. He appears to be reaching out to catch one of the balls, possibly performing a trick or a demonstration. The scene is set against a backdrop of",
+        "response_128": "The image features a man wearing a top hat and a red and yellow plaid shirt, standing in front of a group of three orange and black balls. He appears to be reaching out to catch one of the balls, possibly performing a trick or a demonstration. The scene is set against a backdrop of a cloudy sky.",
+        "response_256": "The image features a man wearing a top hat and a red and yellow plaid shirt, standing in front of a group of three orange and black balls. He appears to be reaching out to catch one of the balls, possibly performing a trick or a demonstration. The scene is set against a backdrop of a cloudy sky.",
+        "response_512": "The image features a man wearing a top hat and a red and yellow plaid shirt, standing in front of a group of three orange and black balls. He appears to be reaching out to catch one of the balls, possibly performing a trick or a demonstration. The scene is set against a backdrop of a cloudy sky.",
+        "response_length": 70
+    }
+]

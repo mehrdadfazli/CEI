@@ -1,0 +1,14 @@
+{
+    "model_type": "instructblip",
+    "load_in_8bit": true,
+    "cache_dir": "/scratch/mfazli/huggingface_cache",
+    "amber_path": "/projects/zzhu20/Mehrdad/AMBER",
+    "do_sample": false,
+    "use_CEI": false,
+    "num_beams": 1,
+    "max_new_tokens": 512,
+    "context_embedding_idx": -1,
+    "context_embedding_layer": -1,
+    "injection_layer": 15,
+    "alpha": 0.1
+}

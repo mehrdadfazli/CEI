@@ -1,0 +1,2 @@
+Running run_CHAIR_dyn.py with arguments: --model_type instructblip --load_in_8bit --cache_dir /scratch/mfazli/huggingface_cache --log_dir /projects/zzhu20/Mehrdad/CEI/results/CHAIR/prelim_dynamic_ctx_embed --use_CEI --num_beams 1 --max_new_tokens 512 --context_strategy topk_avg --topk 3 --opera_results /projects/zzhu20/Mehrdad/CEI/results/CHAIR/prelim/job_3710884/1968_instructblip.jsonl --injection_layer 10 --alpha 0.1
+CHAIR benchmark completed successfully.
