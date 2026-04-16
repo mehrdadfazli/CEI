@@ -1,5 +1,5 @@
 ## Project Description
-This repository contains the implementation of context embedding injection (CEI) mwthod from the paper "Inject to Heal: Alleviating hallucination in LVLMs via Context Embedding Injection" accepted to ACL 2026 findings.
+This repository contains the implementation of context embedding injection (CEI) method from the paper "Inject to Heal: Alleviating hallucination in LVLMs via Context Embedding Injection" accepted to ACL 2026 findings.
 ## Implementation Details
 Our implementation leverages the Hugging Face versions of LLaVA-1.5 and InstructBLIP, built on Transformer version 4.47.
 
