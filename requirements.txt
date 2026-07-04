@@ -1,0 +1,14 @@
+# Pinned from CEI research environment; relax versions if needed for your stack.
+Pillow>=10.0.0
+requests>=2.31.0
+safetensors>=0.4.0
+accelerate>=1.2.0
+bitsandbytes>=0.45.0
+numpy>=1.26.0,<2.3
+pandas>=2.2.0
+torch>=2.2.0
+torchvision>=0.17.0
+tqdm>=4.66.0
+transformers>=4.46.0,<4.50.0
+datasets>=2.14.0
+jsonlines>=4.0.0
