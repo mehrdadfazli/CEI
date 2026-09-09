@@ -1,8 +1,12 @@
 # [ACL 2026 Finding] [Inject to Heal: Alleviating hallucination in LVLMs via Context Embedding Injection](https://aclanthology.org/2026.findings-acl.2048/)
 
-Official code release for **Context Embedding Injection (CEI)** — a training-free, inference-time method to mitigate hallucination and improve visual grounding in large vision-language models (LVLMs). Accepted to **ACL Findings**.
+## Project Description
+This repository contains the official implementation of Context Embedding Injection (CEI), a training-free hallucination mitigation method for large vision-language models (LVLM). It provides a robust framework for researchers and developers to conduct experiments and analyze results in a structured and reproducible manner.
 
-CEI extracts a **context embedding** from one forward pass over the image and prompt, then injects it at a chosen decoder layer during autoregressive generation using a **dynamic two-pass** schedule (per-token probe without injection, map visual-language consistency to an injection strength `alpha`, then forward with injection).
+Context Embedding Injection (CEI) framework addresses hallucination challenge by leveraging a key mechanistic discovery: the **commitment-depth gap**, which reveals that truthful tokens accumulate probability mass earlier across decoder layers than hallucinatory ones. CEI employs a two-variant approach utilizing the initial context embedding as a grounding signal: **Static CEI** to inject a fixed visual grounding signal across all decoding steps, and **Dynamic CEI** to adaptively modulate the injection strength per token based on the model's ongoing confidence. This confidence-driven adjustment ensures consistent visual alignment during generation.
+
+## CEI Framework
+
 
 ## Supported models (7B)
 
