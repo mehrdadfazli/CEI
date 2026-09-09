@@ -1,4 +1,4 @@
-# [Inject to Heal: Alleviating hallucination in LVLMs via Context Embedding Injection](https://aclanthology.org/2026.findings-acl.2048/) (ACL 2026)
+# [ACL 2026 Finding] [Inject to Heal: Alleviating hallucination in LVLMs via Context Embedding Injection](https://aclanthology.org/2026.findings-acl.2048/)
 
 Official code release for **Context Embedding Injection (CEI)** — a training-free, inference-time method to mitigate hallucination and improve visual grounding in large vision-language models (LVLMs). Accepted to **ACL Findings**.
 
