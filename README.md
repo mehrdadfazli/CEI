@@ -6,7 +6,7 @@ This repository contains the official implementation of Context Embedding Inject
 Context Embedding Injection (CEI) framework addresses hallucination challenge by leveraging a key mechanistic discovery: the **commitment-depth gap**, which reveals that truthful tokens accumulate probability mass earlier across decoder layers than hallucinatory ones. CEI employs a two-variant approach utilizing the initial context embedding as a grounding signal: **Static CEI** to inject a fixed visual grounding signal across all decoding steps, and **Dynamic CEI** to adaptively modulate the injection strength per token based on the model's ongoing confidence. This confidence-driven adjustment ensures consistent visual alignment during generation.
 
 ## CEI Framework
-
+<img src="https://github.com/mehrdadfazli/CEI/blob/main/figs/CEI_overview.png" width=1000>
 
 ## Supported models (7B)
 
